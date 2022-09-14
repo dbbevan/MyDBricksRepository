@@ -1,0 +1,9 @@
+{
+	"name": "csademodbricks2022rg6poq6hgpgqqmgadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7f36d8c0-4412-4cd9-9a93-6224ca6e5c72",
+		"tenantId": "03de8bdf-dd76-46f0-8243-b295e0946dd3"
+	}
+}
